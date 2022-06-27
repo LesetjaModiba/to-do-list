@@ -1,0 +1,39 @@
+.form-container
+{
+    margin-top: 250px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: #225253;
+    border-radius: 20px;
+    height: 320px;
+    padding: 1%;
+}
+.inputs
+{
+    width: 400px;
+    padding: 1%;
+    margin: 5px;
+    border-radius: 5px;
+}
+h2{
+    color: aliceblue;
+}
+.login
+{
+    width: 120px;
+    height: 35px;
+    background-color: rgb(255, 255, 167);
+    border: none;
+    border-radius: 5px;
+}
+.login:hover
+{
+background-color: antiquewhite;
+cursor: pointer;
+}
+.link
+{
+color: rgb(138, 200, 255);
+}
